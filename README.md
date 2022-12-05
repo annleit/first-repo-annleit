@@ -1,2 +1,2 @@
-# My first repo file
-this is some text.
+# My first repo
+This is some text.
